@@ -12,5 +12,5 @@ void main()
     double m=2.0944;
     printf("The value of l = %lf \t The value of m = %lf\n",l,m);
     unsigned int n=0;
-    printf("The value of i = %u\n",n);
+    printf("The value of n= %u\n",n);
 }
