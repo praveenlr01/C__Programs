@@ -12,6 +12,7 @@ int main()
     printf("\nsub is %i",i-j);
     printf("\nmul is %i",i*j);
     printf("\ndiv is %i",i/j);
+    printf("\nmod is %i",i%j);
 //logical
     int l=i<j;
     printf("\n%i",l);
